@@ -15,7 +15,7 @@ webpackJsonp([0],[
 	var Line = __webpack_require__(3).Line;
 	var Circle = __webpack_require__(3).Circle;
 	var React = __webpack_require__(6);
-	var ReactDOM = __webpack_require__(41);
+	var ReactDOM = __webpack_require__(39);
 	
 	var tm = void 0;
 	
